@@ -2,8 +2,8 @@
 
 Mossura is a powerful project management and collaboration mod for Minecraft 1.21.1, designed to bring agile workflows directly into your world. Whether you're building a massive base with friends or managing a complex modpack project, Mossura helps you stay organized.
 
-[!WARNING]
-This version was created for HackMT 2026 and merely serves as a vibe-coded proof of concept. It has not undergone rigorous testing for bugs or vulnerabilities. Use at your own risk, and consider writing your own mod (perhaps in other games too!) if you feel inspired.
+> [!WARNING]
+> This version was created for HackMT 2026 and merely serves as a vibe-coded proof of concept. It has not undergone rigorous testing for bugs or vulnerabilities. Use at your own risk, and consider writing your own mod (perhaps in other games too!) if you feel inspired.
 
 ## 🚀 Key Features
 
